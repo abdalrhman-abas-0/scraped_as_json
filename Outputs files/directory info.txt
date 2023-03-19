@@ -1,0 +1,2 @@
+this directory stores all the scraping output files temporally as .json
+as when a new scraping project is initiated all the .json files within will be deleted automatically

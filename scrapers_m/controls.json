@@ -1,0 +1,18 @@
+{
+    "change user": false,
+    "vpn_active": false,
+    "end_scraper": false,
+    "url": "https://sdk.iad-01.braze.com/api/v3/data/",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1"
+    },
+    "body": "{\"respond_with\":{\"triggers\":true,\"user_id\":\"visitor_2fb3d537-b55e-46f4-837b-2b477aa727c5\",\"config\":{\"config_time\":0}},\"events\":[{\"name\":\"ss\",\"time\":1674837200.547,\"data\":{},\"session_id\":\"02bd17c7-bff5-f871-5372-51dc2f397f87\",\"user_id\":\"visitor_2fb3d537-b55e-46f4-837b-2b477aa727c5\"}],\"device\":{\"browser\":\"Edge\",\"browser_version\":\"109\",\"os_version\":\"Windows\",\"resolution\":\"1280x1024\",\"locale\":\"en-us\",\"time_zone\":\"Africa/Cairo\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61\"},\"api_key\":\"7cc9d032-9d6d-44cf-a8f5-d276489af322\",\"time\":1674837200,\"sdk_version\":\"3.5.1\",\"device_id\":\"e7661ffb-874b-2066-eb56-ff16ed116102\",\"sdk_metadata\":[\"wcd\"]}",
+    "method": "POST"
+}

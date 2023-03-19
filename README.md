@@ -12,7 +12,7 @@
 scraped_as_json:
 │   f_inputs.py
 │   f_scrapers.py
-|   LICENSE.py
+|   LICENSE.TXT
 │   README.md
 │   requirements.txt
 │   run.py

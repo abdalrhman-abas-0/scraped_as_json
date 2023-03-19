@@ -116,8 +116,8 @@ In this stage the primary and secondary stages are joined and saved into one fil
       "accept-language": "en-US,en;q=0.9",
       "content-type": "application/json",
       },
-  "schools": [{"query":\"\\nquery GetSchoolData($propertyId: ID!)"}, "home(property_id: $propertyId)"],
-  "fire": [{"query":\"\\nquery GetFireTrend($propertyId: ID!)"}, "home(property_id: $propertyId)"],
+  "schools": [{"query":"\\nquery GetSchoolData($propertyId: ID!)"}, "home(property_id: $propertyId)"],
+  "fire": [{"query":"\\nquery GetFireTrend($propertyId: ID!)"}, "home(property_id: $propertyId)"],
   "method": "POST"
 }
 ```
